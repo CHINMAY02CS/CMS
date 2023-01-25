@@ -17,7 +17,7 @@ The database is designed and used on phpmyadmin with MySQL to store and manage t
 <br>
 <br>
 
-##Description
+## Description
 This is the home page for ONLINE COMPLAINT MANAGEMENT SYSTEM
 ![HomePage](https://github.com/CHINMAY02CS/Complaint-Management-System/blob/main/homepage.JPG)
 
@@ -37,6 +37,9 @@ This is the complaint lodge page where the user files a complaint with required 
 ![Lodgecomplaint](https://github.com/CHINMAY02CS/Complaint-Management-System/blob/main/lodgecomplaint.JPG)
 ![CompleteLodgecomplaint](https://github.com/CHINMAY02CS/Complaint-Management-System/blob/main/lodgecomplaint2.JPG)
 ![categories](https://github.com/CHINMAY02CS/Complaint-Management-System/blob/main/Selectcategory.JPG)
+
+This is the confirmation of registered complaint with the complaint number
+![registeredcomplaint](https://github.com/CHINMAY02CS/Complaint-Management-System/blob/main/registered.JPG)
 
 This is the complaint status page where the user can check the status of his filed complaint.
 ![Complaintstatus](https://github.com/CHINMAY02CS/Complaint-Management-System/blob/main/complainthistory.JPG)
