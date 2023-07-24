@@ -19,7 +19,7 @@ The database is designed and used on phpmyadmin with MySQL to store and manage t
 
 ## Description
 This is the home page for ONLINE COMPLAINT MANAGEMENT SYSTEM
-![HomePage](https://github.com/CHINMAY02CS/Complaint-Management-System/blob/main/homepage.JPG)
+https://github.com/CHINMAY02CS/Complaint-Management-System/blob/main/homepage.JPG
 
 This is the USER REGISTRATION page. (Go to USER REGISTRATION ON HOMEPAGE)
 ![UserRegistration](https://github.com/CHINMAY02CS/Complaint-Management-System/blob/main/userreg.JPG)
